@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TriviaApp</string>
+    <string name="question_45_600">Question - 45/600</string>
+    <string name="next_question">Next Question</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+</resources>
